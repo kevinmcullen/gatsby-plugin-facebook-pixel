@@ -13,7 +13,8 @@ plugins: [
   {
     resolve: `gatsby-plugin-facebook-pixel`,
     options: {
-      pixelId: 'pixel id here',
+      pixelIdOne: 'pixel id here',
+      pixelIdTwo: 'pixel id here',
     },
   },
 ]
